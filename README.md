@@ -1,5 +1,5 @@
 # Kubernetes Bootcamp 2.0
-Criação do Dockerfile e .dockerignore. A aplicação do Python **não** foi desenvolvida por mim.
+Criação de arquivos relacionados ao Docker e Kubernetes. A aplicação do Python **não** foi desenvolvida por mim.
 
 ## Passos relacionados ao Docker:
 
